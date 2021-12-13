@@ -1,6 +1,3 @@
 # nomadcoffee Web
 
-- [ ] Router
-- [ ] Authentication
-- [ ] Arch.
-- [ ] Styles
+- [x] Log In / Sign Up
